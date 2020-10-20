@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sampleGuards"
+    }
+  },
+  "defaultProject": "sampleGuards",
+  "cli": {
+    "analytics": "8f0248b0-3251-409f-a47c-e5eab32d049c"
+  }
 }
